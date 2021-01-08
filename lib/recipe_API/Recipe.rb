@@ -1,0 +1,3 @@
+class RecipeAPI::Recipe 
+
+end
